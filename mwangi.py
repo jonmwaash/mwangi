@@ -8,3 +8,8 @@ print(str(row))
 class Js(Mwangi):
 	def __init__(self, id):
 		return self.id
+
+	def script(self):
+		return 2 * 2
+
+		
