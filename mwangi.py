@@ -12,4 +12,5 @@ class Js(Mwangi):
 	def script(self):
 		return 2 * 2
 
-		
+	def java(self, nt):
+		return 5 - 5
